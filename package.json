@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/luongvu2211/Do_An_Web2#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-handlebars": "^4.0.4",
     "handlebars": "^4.7.6"
   }
